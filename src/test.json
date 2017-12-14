@@ -1,0 +1,27 @@
+{
+    "Search": {
+        "VehicleList": [
+            {
+                "sipp": "XTMN",
+                "name": "Vehicle Uno",
+                "price": 100.00,
+                "supplier": "OneCars",
+                "rating": 1.0
+            },
+            {
+                "sipp": "LPAR",
+                "name": "Vehicle Dos",
+                "price": 200.00,
+                "supplier": "TwoCars",
+                "rating": 2.0
+            },
+            {
+                "sipp": "PTMR",
+                "name": "Vehicle Tres",
+                "price": 300.00,
+                "supplier": "ThreeCars",
+                "rating": 3.0
+            }
+        ]
+    }
+}
